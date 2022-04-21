@@ -1,4 +1,4 @@
-node {
+node('tomcat') {
     stage('checkout') {
         sh 'pwd'
         sh 'ls'
