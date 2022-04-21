@@ -5,5 +5,6 @@ node {
         sh 'echo "good morning"'
         sh 'echo "good morning"'
         sh 'echo "testing"'
+        sh 'echo "testing1"'
     }
 }
