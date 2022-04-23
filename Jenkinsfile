@@ -7,6 +7,7 @@ pipeline {
                     sh 'echo "testing1"'
                     sh 'sudo apt update'
                     sh 'echo "testing2"'
+                    sh 'echo "testing2"' 
                 }
             }
         }
